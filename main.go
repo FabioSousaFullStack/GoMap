@@ -6,6 +6,6 @@ import (
 
 func main() {
 	ola := fmt.Sprint("Olá mundo")
-	fmt.Print(ola)
+	fmt.Println(ola)
 
 }
